@@ -1,7 +1,7 @@
 {
-    "name": "Mitta Screenshot",
+    "name": "Mitta GPT-3",
     "version": "0.1.1",
-    "description": "Send screenshots to your Mitta agent.",
+    "description": "Send things to GPT-3.",
     "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
@@ -15,11 +15,10 @@
         "scripting"
     ],
     "host_permissions": [
-        "https://mitta.us/",
-        "http://localhost:8080/"
+        "https://api.openai.com/"
     ],
     "action": {
-        "default_title": "Mitta Screenshot"
+        "default_title": "Mitta GPT-3"
     },
     "icons": {
         "16": "/assets/icon-16.png",
