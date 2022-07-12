@@ -1,6 +1,6 @@
 # Mitta GPT-3 Chrome Extension
 
-Mitta GPT-3 is a Google Chrome extension which queries OpenAI's GPT-3 API.
+Mitta GPT-3 is a Google Chrome extension which queries OpenAI's GPT-3 API and sends the title of the page for commenting.
 
 ## License
 Mitta GPT-3 ©2022 by Kord Campbell, [MIT License](./LICENSE)
