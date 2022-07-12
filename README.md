@@ -2,6 +2,8 @@
 
 Mitta GPT-3 is a Google Chrome extension which queries OpenAI's GPT-3 API and sends the title of the page for commenting.
 
+The initial release of this is intended to be an example of how to builid an extension that may query GPT-3's API.
+
 ## License
 Mitta GPT-3 ©2022 by Kord Campbell, [MIT License](./LICENSE)
 
@@ -22,7 +24,7 @@ A developer version of this software is [available for download](https://github.
 
 1. Click the **extensions icon** (puzzle piece) in the top right corner and click the **pin icon** next to the extension.
 
-Mitta GPT-3 will be available on the Chrome store in the near future.
+Mitta GPT-3 will be available on the Chrome store in the near future. Maybe.
 
 ## Use
 Navigate to a page and then click on the **>** icon. The page title will be sent to GPT-3 and the console will show the output from the model.
